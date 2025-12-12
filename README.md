@@ -51,7 +51,7 @@ Users can **register, log in, input trip details, and instantly receive an AI-ge
 ---
 
 ## Project Structure
-
+```
 ai-travel-planner/
 │
 ├── client/
@@ -82,7 +82,7 @@ ai-travel-planner/
 │ ├── index.js
 │ ├── package.json
 │ └── .env
----
+```
 
 
 ---
@@ -154,3 +154,4 @@ OpenRouter AI
 MongoDB & Mongoose
 
 React & Node.js communities
+
