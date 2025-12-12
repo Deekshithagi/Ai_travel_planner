@@ -1,5 +1,5 @@
 #  AI-Powered Travel Planner  
-A full-stack MERN web application that generates personalized travel itineraries using **AI (OpenRouter LLM Integration)**.  
+A full-stack MERN web application that generates personalized travel itineraries using **AI model (OpenRouter Integration)**.  
 Users can **register, log in, input trip details, and instantly receive an AI-generated travel plan** which is also saved to the database.
 
 ---
@@ -128,9 +128,10 @@ JWT_SECRET=your_secret_key
 OPENROUTER_API_KEY=your_openrouter_key
 
 ### Frontend Setup
-cd client
-npm install
+cd client  
+npm install  
 npm start
+
 ---
 ## Future Enhancements
 
@@ -141,6 +142,8 @@ npm start
 - Multi-user collaboration on itineraries
 ---
 ## Acknowledgements
--OpenRouter AI
--MongoDB & Mongoose
--React & Node.js communities
+
+- OpenRouter AI
+- MongoDB & Mongoose
+- React & Node.js communities
+
