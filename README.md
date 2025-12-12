@@ -104,16 +104,13 @@ User enters destination, budget, interests, and days.
 ### 4️⃣ Backend Calls OpenRouter API  
 
 ### 5️⃣ AI Generates a Travel Plan
-
 AI returns a fully structured itinerary
-
 Itinerary is saved in MongoDB
-
 Response sent back to frontend
 
 ### 6️⃣ React Displays the Plan
-
 Displayed beautifully using an Itinerary component.
+
 ---
 ## Installation & Setup
 ### Clone the repository
@@ -135,23 +132,15 @@ cd client
 npm install
 npm start
 ---
-Future Enhancements
+## Future Enhancements
 
-Save & view past itineraries
-
-Add travel cost estimation
-
-Real-time AI chat assistant
-
-Hotel/Flight API integration
-
-Multi-user collaboration on itineraries
+- Save & view past itineraries  
+- Add travel cost estimation  
+- Real-time AI chat assistant  
+- Hotel/Flight API integration  
+- Multi-user collaboration on itineraries
 ---
-### Acknowledgements
-
-OpenRouter AI
-
-MongoDB & Mongoose
-
-React & Node.js communities
-
+## Acknowledgements
+-OpenRouter AI
+-MongoDB & Mongoose
+-React & Node.js communities
